@@ -1,4 +1,4 @@
-# URLs to news sites owned by News Corp
+#URLs_for_News_Corp_sites
 aap.com.au
 adelaidenow.com.au
 barrons.com
