@@ -1,4 +1,4 @@
-# News sites owned by Nine/Fairfax Media
+#URLs_for_Nine/Fairfax_sites
 afr.com
 bendigoadvertiser.com.au
 bordermail.com.au
