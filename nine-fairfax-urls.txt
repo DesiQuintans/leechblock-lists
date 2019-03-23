@@ -1,0 +1,20 @@
+# News sites owned by Nine/Fairfax Media
+afr.com
+bendigoadvertiser.com.au
+bordermail.com.au
+brisbanetimes.com.au
+brw.com.au
+canberratimes.com.au
+dailyadvertiser.com.au
+illawarramercury.com.au
+nineentertainment.com.au
+nineentertainmentco.com.au
+smh.com.au
+stuff.co.nz
+sundaystartimes.co.nz
+sunherald.com.au
+theage.com.au
+thecourier.com.au
+theherald.com.au
+theland.com.au
+watoday.com.au
